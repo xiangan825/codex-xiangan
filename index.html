@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>AI漫游 - 天天学AI</title>
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🤖</text></svg>">
+</head>
+<body>
+    <!-- 头部 -->
+    <header class="header">
+        <div class="container">
+            <h1 class="site-title">🤖 AI漫游</h1>
+            <p class="site-desc">天天学AI</p>
+        </div>
+    </header>
+
+    <!-- 搜索栏 -->
+    <div class="search-section">
+        <div class="container">
+            <input type="text" id="searchInput" placeholder="搜索AI工具..." class="search-input">
+        </div>
+    </div>
+
+    <!-- 主内容区 -->
+    <main class="main">
+        <div class="container">
+            <div class="layout">
+                <!-- 侧边栏分类 -->
+                <aside class="sidebar">
+                    <h3 class="sidebar-title">分类</h3>
+                    <ul class="category-list" id="categoryList">
+                        <li><button class="category-btn active" data-category="all">全部</button></li>
+                    </ul>
+                </aside>
+
+                <!-- 工具卡片区 -->
+                <section class="content">
+                    <div class="tools-grid" id="toolsGrid">
+                        <!-- 动态加载工具卡片 -->
+                    </div>
+                    <div class="no-results" id="noResults" style="display: none;">
+                        <p>😅 没有找到相关工具</p>
+                    </div>
+                </section>
+            </div>
+        </div>
+    </main>
+
+    <!-- 页脚 -->
+    <footer class="footer">
+        <div class="container">
+            <p>&copy; 2026 AI漫游 · 由 祥安 创建</p>
+            <p class="footer-tip">💡 提示：点击工具卡片即可访问官网</p>
+        </div>
+    </footer>
+
+    <script src="script.js"></script>
+</body>
+</html>

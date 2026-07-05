@@ -1,0 +1,128 @@
+[
+  {
+    "name": "ChatGPT",
+    "category": "聊天AI",
+    "icon": "💬",
+    "url": "https://chat.openai.com",
+    "desc": "OpenAI开发的强大对话AI，支持多轮对话、代码生成、文本创作等"
+  },
+  {
+    "name": "Claude",
+    "category": "聊天AI",
+    "icon": "🤖",
+    "url": "https://claude.ai",
+    "desc": "Anthropic开发的AI助手，擅长长文本处理和逻辑推理"
+  },
+  {
+    "name": "文心一言",
+    "category": "聊天AI",
+    "icon": "🇨🇳",
+    "url": "https://yiyan.baidu.com",
+    "desc": "百度开发的AI对话助手，支持中英文交流"
+  },
+  {
+    "name": "Midjourney",
+    "category": "图像生成",
+    "icon": "🎨",
+    "url": "https://midjourney.com",
+    "desc": "AI图像生成工具，通过文字描述生成高质量艺术作品"
+  },
+  {
+    "name": "Stable Diffusion",
+    "category": "图像生成",
+    "icon": "🖼️",
+    "url": "https://stablediffusionweb.com",
+    "desc": "开源AI图像生成模型，可本地部署，高度可定制"
+  },
+  {
+    "name": "DALL-E 3",
+    "category": "图像生成",
+    "icon": "🎭",
+    "url": "https://openai.com/dall-e-3",
+    "desc": "OpenAI开发的图像生成AI，集成在ChatGPT Plus中"
+  },
+  {
+    "name": "通义万相",
+    "category": "图像生成",
+    "icon": "☁️",
+    "url": "https://tongyi.aliyun.com/wanxiang",
+    "desc": "阿里云推出的AI图像生成服务，支持多种艺术风格"
+  },
+  {
+    "name": "GitHub Copilot",
+    "category": "编程助手",
+    "icon": "👨‍💻",
+    "url": "https://github.com/features/copilot",
+    "desc": "AI编程助手，实时提供代码建议和自动补全"
+  },
+  {
+    "name": "Cursor",
+    "category": "编程助手",
+    "icon": "⚡",
+    "url": "https://cursor.sh",
+    "desc": "AI驱动的代码编辑器，集成了强大的AI编程功能"
+  },
+  {
+    "name": "Codeium",
+    "category": "编程助手",
+    "icon": "🚀",
+    "url": "https://codeium.com",
+    "desc": "免费的AI代码补全工具，支持70+编程语言"
+  },
+  {
+    "name": "Notion AI",
+    "category": "写作AI",
+    "icon": "📝",
+    "url": "https://www.notion.so/product/ai",
+    "desc": "集成在Notion中的AI助手，帮助写作、总结和翻译"
+  },
+  {
+    "name": "Jasper",
+    "category": "写作AI",
+    "icon": "✍️",
+    "url": "https://www.jasper.ai",
+    "desc": "AI写作工具，专为营销文案、博客文章创作优化"
+  },
+  {
+    "name": "Grammarly",
+    "category": "写作AI",
+    "icon": "📄",
+    "url": "https://www.grammarly.com",
+    "desc": "AI语法检查和写作改进工具，支持多种平台"
+  },
+  {
+    "name": "讯飞星火",
+    "category": "聊天AI",
+    "icon": "🔥",
+    "url": "https://xinghuo.xfyun.cn",
+    "desc": "科大讯飞推出的认知大模型，支持多模态交互"
+  },
+  {
+    "name": "Runway ML",
+    "category": "视频AI",
+    "icon": "🎬",
+    "url": "https://runwayml.com",
+    "desc": "AI视频编辑工具，支持视频生成、抠图、风格迁移等"
+  },
+  {
+    "name": "ElevenLabs",
+    "category": "音频AI",
+    "icon": "🎙️",
+    "url": "https://elevenlabs.io",
+    "desc": "AI语音合成工具，生成逼真的人声配音"
+  },
+  {
+    "name": "Whisper",
+    "category": "音频AI",
+    "icon": "👂",
+    "url": "https://openai.com/whisper",
+    "desc": "OpenAI开发的语音识别系统，支持多语言转录"
+  },
+  {
+    "name": "v0.dev",
+    "category": "编程助手",
+    "icon": "🎯",
+    "url": "https://v0.dev",
+    "desc": "Vercel推出的AI界面生成工具，自然语言生成UI代码"
+  }
+]
