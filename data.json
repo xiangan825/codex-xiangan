@@ -124,5 +124,12 @@
     "icon": "🎯",
     "url": "https://v0.dev",
     "desc": "Vercel推出的AI界面生成工具，自然语言生成UI代码"
+  },
+  {
+    "name": "agent-qa",
+    "category": "编程助手",
+    "icon": "🧪",
+    "url": "https://vostride.com",
+    "desc": "vostride 的网页与移动端 AI 测试工具，具备 memidex 持久记忆、经验证的自我改进和可回看证据，支持 MCP；模型费用另计"
   }
 ]
